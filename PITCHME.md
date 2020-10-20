@@ -31,11 +31,12 @@
 
 ---
 
-[drag=300 100, drop= 10 10]
+[drag=32 20, drop=5 0]
 
 # 順番に
 
-[drag=400 100, drop= 10 450]
+[drag=90 50, drop=center, fit=3.4]
+
 # 語ります
 
 ---
